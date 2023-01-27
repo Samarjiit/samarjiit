@@ -7,8 +7,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently leading DSC chapter in PGDAV College
-- 🌱 I’m currently learning Reactjs and Flutter
+- 👨🏽‍💻 I’m currently pursuing MCA degree from Manipal Institute of Technology
+- 🌱 I’m currently learning mern stack
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I am a foodie guy. 
 - 📫 How to reach me: samarjitmahi6245@gmail.com
